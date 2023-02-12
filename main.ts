@@ -1,2 +1,4 @@
 // Make sure to read all the requirements & add comments to your code!
-game.splash("Hello, World!")
+for (let index = 0; index <= 4; index++) {
+    game.splash("Hello" + "World" + index)
+}
