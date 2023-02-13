@@ -9,4 +9,4 @@ _site
 *.tgz
 .header.json
 .simstate.json
-.github/makecode/*.png
+.github/makecode/
